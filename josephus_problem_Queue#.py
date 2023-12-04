@@ -1,3 +1,5 @@
+# https://www.youtube.com/watch?v=MYk4autDAJ0&list=PLsMufJgu5933ZkBCHS7bQTx0bncjwi4PK&index=10&ab_channel=Chan-SuShin
+
 class Queue:
     class EmptyQueueError(Exception):
         """Custom exception for empty queue error (큐가 비어있는 경우의 사용자 정의 예외)"""
